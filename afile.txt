@@ -1,9 +1,9 @@
-this is a file
+hello hello this is a file goodbye
 with 2 lines
 of text
 
 hello
 hello
 some more changes
-hello
+goodbye goodbye hello
 more lines
