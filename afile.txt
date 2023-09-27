@@ -1,3 +1,7 @@
 this is a file
 with 2 lines
 of text
+
+hello
+hello
+hello
