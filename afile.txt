@@ -1,8 +1,9 @@
+this is a new line entirely
 with 2 lines
 of text
 
 hello
 hello
 some more changes
-hello
+goodbye goodbye hello
 more lines
