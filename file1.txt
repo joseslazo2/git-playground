@@ -1,0 +1,16 @@
+This is a file
+It has a bunch of lines
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBB
+This is an entirely new line
+Line 2
+C is good
+Python is awesome
+Winter is coming
+a
+bunch
+of
+new lines
+that 
+are 
+all
+new features
